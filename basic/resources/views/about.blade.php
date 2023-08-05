@@ -6,7 +6,7 @@
             <Title>About page</Title>
 </head>
 <body>
-<h1>This is a about page</h1>
+<h1>This is a about page from controller</h1>
 </body>
 </html>
 
