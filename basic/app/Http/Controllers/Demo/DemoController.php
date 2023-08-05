@@ -11,10 +11,10 @@ class DemoController extends Controller
 
         return view('about');
 
-    } //end method
+    }  //end method
 
     public function ContactMethod(){
-        return view ('contact');
-    }
+
+        return view('contact');    }
 
 }
