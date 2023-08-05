@@ -6,7 +6,7 @@
             <Title>Contact page</Title>
 </head>
 <body>
-<h2>This is a Contact page</h2>
+<h2>This is a Contact page from controller</h2>
 </body>
 </html>
 
