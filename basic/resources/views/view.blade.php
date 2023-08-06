@@ -6,7 +6,7 @@
             <Title>Contact page</Title>
 </head>
 <body>
-<h2>This is a Contact page</h2>
+<h1>This is a view page</h1>
 </body>
 </html>
 
